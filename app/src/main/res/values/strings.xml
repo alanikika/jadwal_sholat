@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShalatQ</string>
+    <string name="isya">Isya</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="ashar">Ashar</string>
+    <string name="dzuhur">Dzuhur</string>
+    <string name="subuh">Subuh</string>
+    <string name="shurooq">Shurooq</string>
+</resources>
